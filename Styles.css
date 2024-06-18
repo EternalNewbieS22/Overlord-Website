@@ -6,7 +6,15 @@ html
 a {
   color: blue;
 }
-p {
+h2 {
   color: red; 
 }
-
+h1 {
+  color: blue;
+}
+.first {
+  color: coral;
+}
+.second {
+  color: aqua;
+}
