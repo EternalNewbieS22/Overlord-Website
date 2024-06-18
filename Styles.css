@@ -9,12 +9,15 @@ a {
 h2 {
   color: red; 
 }
-h1 {
-  color: blue;
+h1{
+  color:blue; text-align: center;
 }
 .first {
-  color: coral;
+  color: coral; text-align: center;
 }
 .second {
-  color: aqua;
+  color: aqua; text-align: center;
+}
+#title {
+  color: red; text-align: center;
 }
