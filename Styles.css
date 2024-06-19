@@ -1,7 +1,11 @@
-html 
+html
 
 * {
   background-color: rgb(0, 0, 0);
+  font-family: "Playwrite AU SA", cursive;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
   }
 a {
   color: blue;
@@ -22,12 +26,6 @@ h1{
   color: red; text-align: center;
 }
 
-* {
-  font-family: "Playwrite AU SA", cursive;
-  font-optical-sizing: auto;
-  font-weight: 200;
-  font-style: normal;
-}
 #OverlordPosterBorder {
   border: 5px solid white;
   text-align: center;
