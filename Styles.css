@@ -1,7 +1,7 @@
 html 
 
-body {
-  background-color: black;
+* {
+  background-color: rgb(0, 0, 0);
   }
 a {
   color: blue;
@@ -20,4 +20,16 @@ h1{
 }
 #title {
   color: red; text-align: center;
+}
+
+* {
+  font-family: "Playwrite AU SA", cursive;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+#OverlordPosterBorder {
+  border: 5px solid white;
+  text-align: center;
+  margin-left: 500px;
 }
